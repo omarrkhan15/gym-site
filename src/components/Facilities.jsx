@@ -17,7 +17,7 @@ const FACILITIES = [
     img: '/videos/space.jpeg',
   },
   {
-    name: 'Suana & Ice Bath',
+    name: 'Sauna & Ice Bath',
     desc: 'A sauna and ice bath to help you recover faster, train harder and feel better.',
     img: '/videos/rest.jpeg',
   },
