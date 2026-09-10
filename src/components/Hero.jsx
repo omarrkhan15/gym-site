@@ -49,7 +49,7 @@ export default function Hero() {
 
       <div className="relative z-10 h-full max-w-7xl mx-auto px-6 md:px-10 flex flex-col justify-end pb-28 md:pb-36">
         <p ref={eyebrowRef} className="text-ember font-semibold tracking-wide mb-4">
-          Karachi's strength &amp; conditioning studio
+          Karachi's Strength &amp; Conditioning Studio
         </p>
         <h1 ref={titleRef} className="font-display font-extrabold text-bone leading-[0.95] text-balance text-6xl sm:text-7xl md:text-8xl max-w-3xl">
           Train with
